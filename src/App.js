@@ -1,4 +1,5 @@
 import Header from "./components/Header";
+import TodoList from "./components/TodoList";
 
 
 function App() {
@@ -7,6 +8,7 @@ function App() {
       <div className="row  justify-content-center">
         <div className="col-7 ">
             <Header/>
+            <TodoList/>
         </div>
       </div>
     </div>
