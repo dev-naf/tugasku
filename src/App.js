@@ -1,9 +1,14 @@
+import Header from "./components/Header";
 
 
 function App() {
   return (
-    <div className='container'>
-      <h1>Testing</h1>
+    <div className='container '>
+      <div className="row  justify-content-center">
+        <div className="col-7 ">
+            <Header/>
+        </div>
+      </div>
     </div>
   );
 }
