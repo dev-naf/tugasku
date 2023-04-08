@@ -1,0 +1,19 @@
+{
+    "todo": [
+        {
+            "tugas": "mencuci Pakaian",
+            "tanggal": "25 Januari 2024",
+            "statusSelesai": false
+        },
+        {
+            "tugas": "Menjemur Kerupuk",
+            "tanggal": "25 Januari 2024",
+            "statusSelesai": false
+        },
+        {
+            "tugas": "Membeli kelapa",
+            "tanggal": "25 Januari 2024",
+            "statusSelesai": false
+        }
+    ]
+}
