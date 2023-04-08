@@ -1,28 +1,22 @@
 {
-    "todo": [
-        {
-            "id" :1,
-            "tugas": "mencuci Pakaian",
-            "tanggal": "25 Januari 2024",
-            "statusSelesai": false
-        },
-        {
-            "id" :2,
-            "tugas": "Menjemur Kerupuk",
-            "tanggal": "25 Januari 2024",
-            "statusSelesai": false
-        },
-        {
-            "id" :3,
-            "tugas": "Membeli kelapa",
-            "tanggal": "25 Januari 2024",
-            "statusSelesai": false
-        },
-        {
-            "id" :4,
-            "tugas": "Membeli Sayur",
-            "tanggal": "25 Januari 2024",
-            "statusSelesai": false
-        }
-    ]
+  "todo": [
+    {
+      "tugas": "Testing",
+      "statusSelesai": false,
+      "tanggal": "Hari : Sabtu, 8 April 2023",
+      "id": 1
+    },
+    {
+      "tugas": "Membaca Buku",
+      "statusSelesai": true,
+      "tanggal": "Hari : Sabtu, 8 April 2023",
+      "id": 2
+    },
+    {
+      "tugas": "Mengerjakan PR",
+      "statusSelesai": false,
+      "tanggal": "Hari : Sabtu, 8 April 2023",
+      "id": 3
+    }
+  ]
 }

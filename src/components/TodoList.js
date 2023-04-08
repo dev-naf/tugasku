@@ -17,7 +17,7 @@ const TodoList = () => {
     <div id="todo-list" className='mt-4'>
         {todo.map(
           (Todo) =>(
-            <TodoItem id={Todo.key} tugas={Todo.tugas} tanggal={Todo.tanggal}/>
+            <TodoItem key={Todo.id}  todo= {Todo}/>
           )
         )}
     </div>
